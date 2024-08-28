@@ -8,7 +8,7 @@ public_folder: "/IMG/"
 collections:
   - name: "blog"
     label: "Blog"
-    folder: "index.html"
+    folder: "LAYOUT"
     create: true
     slug: "{{slug}}"
     fields:
